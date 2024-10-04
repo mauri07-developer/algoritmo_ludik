@@ -1,4 +1,4 @@
-# algoritmo_ludik
+# ALGORITMO LUDIK
 
 # Instrucciones para ejecutar el programa "filtrar_urls.py":
 
