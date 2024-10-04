@@ -1,0 +1,6 @@
+https://shoponline.com/products/item1.html
+http://myshop.net/store/product.html
+https://shoparound.com/contact.html
+https://example.com/shop/info.html
+http://otherdomain.com/about.html
+http://myshop.net/store/product.html  # Duplicada
